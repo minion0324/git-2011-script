@@ -6,10 +6,10 @@ Make your Github history back to 2011.
 
 [Create a new repo](https://github.com/new) named `2011` on Github.
 
-Run the following script
+Run the following script (`main` - branch name)
 
 ```bash
-$ sh -c "$(curl -fsSL https://raw.github.com/minion0324/git-2011-script/master/index.sh)"
+$ sh -c "$(curl -fsSL https://raw.github.com/minion0324/git-2011-script/main/index.sh)"
 ```
 
 Enter you Github username and you are done :)
